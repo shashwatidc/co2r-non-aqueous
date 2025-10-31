@@ -1,9 +1,9 @@
 ### Techno-economic assessment for non-aqueous CO<sub>2</sub>R
 
 **Cite this work** : 
-> Da Cunha, S.; Resasco, J. Techno-Economic Assessment of Non-Aqueous CO2 Reduction. June 21, 2025. DOI: [10.26434/chemrxiv-2025-k071x](https://doi.org/10.26434/chemrxiv-2025-k071x).         
+> Da Cunha, S.; Resasco, J. Techno-economic assessment of non-aqueous CO2 reduction. Chem Catalysis 2025. DOI: [10.1016/j.checat.2025.101548](https://doi.org/10.1016/j.checat.2025.101548)
 
-This tool generates the capital and operating cost for a CO₂ reduction process converting captured CO₂ into either CO or oxalic acid in non-aqueous electrolytes. It also generates figures for our [2025 paper](https://doi.org/10.26434/chemrxiv-2025-k071x).
+This tool generates the capital and operating cost for a CO₂ reduction process converting captured CO₂ into either CO or oxalic acid in non-aqueous electrolytes. It also generates figures for our [2025 paper](https://doi.org/10.1016/j.checat.2025.101548).
 
 For similar assessments in aqueous electrolyte, check out the [CO<sub>2</sub>R Costing Dashboard web app](https://co2r-dashboard.streamlit.app/). You only need this repository if you want to see and run the raw model. Fork or download/clone the entire repository - none of these notebooks run independently. Get started by running all of `<version>_4_TEA_Integrated.ipynb` - it will prompt you to interact and set up the figures you want.
 
@@ -31,3 +31,5 @@ Data for constants, utilities and products: `Supplementary Workbook 1 - TEA inpu
 License: `LICENSE.md`
 
 Readme: `README.md`
+
+Packages: `requirements.txt` (can be installed with pip, for example)

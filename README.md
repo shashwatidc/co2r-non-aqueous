@@ -31,3 +31,5 @@ Data for constants, utilities and products: `Supplementary Workbook 1 - TEA inpu
 License: `LICENSE.md`
 
 Readme: `README.md`
+
+Packages: `requirements.txt` (can be installed with pip, for example)
